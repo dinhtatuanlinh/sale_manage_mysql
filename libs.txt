@@ -3,7 +3,7 @@ body-parser@1.19.0// lay tham so client gui len
 dotenv@8.2.0// tao bien moi truong lay tham so trong file moi truong
 ejs@3.1.5
 mongoose
-
+npm install --s body-parser cookie-parser dotenv ejs express express-ejs-layouts express-flash-notification express-session express-validator mongoose multer mysql2 nodemailer passport passport-local path sequelize socket.io
 // giup xử lý câu lệnh trong es6 như import ** from "**"
 npm install --save-dev @babel/core@7.12.10 @babel/node@7.12.10 @babel/preset-env@7.12.10
 1.
